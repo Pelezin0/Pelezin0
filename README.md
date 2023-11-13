@@ -22,7 +22,7 @@ Olá, eu sou Pelezin, um aprendiz da linguagem Pawn.
 - Discord: PelezinKKK#6136
 
 ## Redes 
-- YouTube: Pelezin(https://www.youtube.com/@PelezinPawn)
+- YouTube: PelezinPawn(https://www.youtube.com/@PelezinPawn)
 
 ## Agradecimentos
 Agradeço por ter visitado meu GitHub!
